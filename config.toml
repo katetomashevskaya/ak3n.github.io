@@ -1,0 +1,7 @@
+baseURL = "http://ak3n.com/"
+languageCode = "en-us"
+title = "ak3n.com"
+theme = "elephants"
+
+[params]
+    sitename = "ak3n.com"
