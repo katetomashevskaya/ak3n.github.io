@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ak3n.com</title>
+    <link>http://ak3n.com/posts/</link>
+    <description>Recent content in Posts on ak3n.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ak3n.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Итоги 2018</title>
+      <link>http://ak3n.com/posts/2018/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ak3n.com/posts/2018/</guid>
+      <description>Есть нечто ироничное в возрождении блога в конце года. Сначала я хотел подвести итоги 2018 в виде небольшого списка изменений под постом в инстаграме с красивой фоткой, но я слишком устал от ограничения в 2200 символов и отвратительном механизме форматировании текста. Я перевез весь текст в канал в телеграме. Сначала список итогов был небольшим. Размышляя и добавляя по чуть-чуть в разных пунктах, родилась простыня текста, которую читать в телеграме просто некомфортно, потом еще и картиночки захотелось вставить, а потом и вовсе собрать мысли за последние пару месяцев в одном месте.</description>
+    </item>
+    
+  </channel>
+</rss>
