@@ -17,7 +17,7 @@ a {
     text-decoration: none;
 }
 
-#page-title a:hover, .post a:hover {
+.post a:hover {
     text-decoration: underline;
 }
 
