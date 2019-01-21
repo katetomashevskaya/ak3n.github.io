@@ -3,8 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://ak3n.com/posts/2018/</loc>
+    <loc>http://ak3n.com/posts/reviews/shulman-russian-society/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/reviews/nationalism/</loc>
+    <lastmod>2019-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/other/52/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/other/2018/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/travel/moscow/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/reviews/a-midsummer-night-dream/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/reviews/the-madness-of-george-iii/</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/reviews/they-live/</loc>
+    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/reviews/michelangelo/</loc>
+    <lastmod>2018-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/reviews/faust/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/posts/reviews/neurotic-personality/</loc>
+    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +63,20 @@
   </url>
   
   <url>
+    <loc>http://ak3n.com/categories/other/</loc>
+    <lastmod>2019-01-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ak3n.com/posts/</loc>
-    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/categories/reviews/</loc>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -24,8 +86,14 @@
   </url>
   
   <url>
+    <loc>http://ak3n.com/categories/travel/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ak3n.com/</loc>
-    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

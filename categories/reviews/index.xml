@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ak3n.com</title>
-    <link>http://ak3n.com/posts/</link>
-    <description>Recent content in Posts on ak3n.com</description>
+    <title>Reviews on ak3n.com</title>
+    <link>http://ak3n.com/categories/reviews/</link>
+    <description>Recent content in Reviews on ak3n.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://ak3n.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ak3n.com/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,35 +29,6 @@
       <guid>http://ak3n.com/posts/reviews/nationalism/</guid>
       <description>Я часто люблю ходить в книжные магазины и бродить по ним, рассматривая полки. Иногда взгляд цепляется за что-нибудь интересное, и я пополняю to-read список. Как-то раз, благодаря одному такому походу в Пиотровский, список пополнился аж на 20-30 книжек.
 Год назад мой взгляд зацепился на “Национализме” Бернарда Яка. Полагаю, что основным фактором сыграла ситуация в США с Трампом, где очень сильно выросло националистическое движение и противостояние ему. Я читаю в твиттере лево-ориентированных американцев и такие вещи как “anti-fascism” и “punch a nazi” часто мелькали в ленте.</description>
-    </item>
-    
-    <item>
-      <title>52</title>
-      <link>http://ak3n.com/posts/other/52/</link>
-      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://ak3n.com/posts/other/52/</guid>
-      <description>Где-то летом я много читал блог Аарона Шварца — активиста, разработчика (приложил руку к RSS в 14 лет) и одного из основателей Reddit. Про него есть хороший документальный фильм:
- Он был очень интересной и вдохновляющей личностью. Занимался кучей проектов, писал статьи, выступал и каждый год подводил книжные итоги: сколько прочитал, что понравилось и оставлял небольшие ревью. Из его блога я вытащил много интересных книжек. Его личной целью всегда было читать минимум 52 книги в год.</description>
-    </item>
-    
-    <item>
-      <title>Итоги 2018</title>
-      <link>http://ak3n.com/posts/other/2018/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://ak3n.com/posts/other/2018/</guid>
-      <description>Есть нечто ироничное в возрождении блога в конце года. Сначала я хотел подвести итоги 2018 в виде небольшого списка изменений под постом в инстаграме с красивой фоткой, но я слишком устал от ограничения в 2200 символов и отвратительном механизме форматировании текста. Я перевез весь текст в канал в телеграме. Сначала список итогов был небольшим. Размышляя и добавляя по чуть-чуть в разных пунктах, родилась простыня текста, которую читать в телеграме просто некомфортно, потом еще и картиночки захотелось вставить, а потом и вовсе собрать мысли за последние пару месяцев в одном месте.</description>
-    </item>
-    
-    <item>
-      <title>Москва</title>
-      <link>http://ak3n.com/posts/travel/moscow/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://ak3n.com/posts/travel/moscow/</guid>
-      <description>Поездки в Москву уже стали регулярными. Если летом я прямо кайфовал от города, много гуляя, то что было в этот раз?
-Во-первых, как мне сказали коллеги, я увидел настоящую зиму в Москве. Это когда много грязи, слякоть и везде “собянинские” химикаты. В центре конечно все убирают и красиво. Во-вторых, днем так же как и в любом городе зимой — серо и уныло. Вечером город загорается от подсветки, чтобы шея не искала петлю от постоянной серости и мрака.</description>
     </item>
     
     <item>

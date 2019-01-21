@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other on ak3n.com</title>
+    <link>http://ak3n.com/categories/other/</link>
+    <description>Recent content in Other on ak3n.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ak3n.com/categories/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>52</title>
+      <link>http://ak3n.com/posts/other/52/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://ak3n.com/posts/other/52/</guid>
+      <description>Где-то летом я много читал блог Аарона Шварца — активиста, разработчика (приложил руку к RSS в 14 лет) и одного из основателей Reddit. Про него есть хороший документальный фильм:
+ Он был очень интересной и вдохновляющей личностью. Занимался кучей проектов, писал статьи, выступал и каждый год подводил книжные итоги: сколько прочитал, что понравилось и оставлял небольшие ревью. Из его блога я вытащил много интересных книжек. Его личной целью всегда было читать минимум 52 книги в год.</description>
+    </item>
+    
+    <item>
+      <title>Итоги 2018</title>
+      <link>http://ak3n.com/posts/other/2018/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ak3n.com/posts/other/2018/</guid>
+      <description>Есть нечто ироничное в возрождении блога в конце года. Сначала я хотел подвести итоги 2018 в виде небольшого списка изменений под постом в инстаграме с красивой фоткой, но я слишком устал от ограничения в 2200 символов и отвратительном механизме форматировании текста. Я перевез весь текст в канал в телеграме. Сначала список итогов был небольшим. Размышляя и добавляя по чуть-чуть в разных пунктах, родилась простыня текста, которую читать в телеграме просто некомфортно, потом еще и картиночки захотелось вставить, а потом и вовсе собрать мысли за последние пару месяцев в одном месте.</description>
+    </item>
+    
+  </channel>
+</rss>

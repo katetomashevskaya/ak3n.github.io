@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on ak3n.com</title>
+    <link>http://ak3n.com/categories/travel/</link>
+    <description>Recent content in Travel on ak3n.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ak3n.com/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Москва</title>
+      <link>http://ak3n.com/posts/travel/moscow/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ak3n.com/posts/travel/moscow/</guid>
+      <description>Поездки в Москву уже стали регулярными. Если летом я прямо кайфовал от города, много гуляя, то что было в этот раз?
+Во-первых, как мне сказали коллеги, я увидел настоящую зиму в Москве. Это когда много грязи, слякоть и везде “собянинские” химикаты. В центре конечно все убирают и красиво. Во-вторых, днем так же как и в любом городе зимой — серо и уныло. Вечером город загорается от подсветки, чтобы шея не искала петлю от постоянной серости и мрака.</description>
+    </item>
+    
+  </channel>
+</rss>
