@@ -1,7 +1,7 @@
 baseURL = "http://ak3n.com/"
 languageCode = "en-us"
 title = "ak3n.com"
-theme = "elephants"
+theme = "theme"
 
 [params]
     sitename = "¯\\_(ツ)_\/¯"
