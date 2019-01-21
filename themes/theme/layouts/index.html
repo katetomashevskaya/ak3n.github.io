@@ -16,7 +16,7 @@
   </ul>
 
   <ul>
-    <h4>Поездки:</h4>
+    <h4>путешествия</h4>
     {{ range .Data.Pages.ByPublishDate.Reverse }}
       <div class="posts">
         {{ if and (in .Params.categories "travel") }}
@@ -32,7 +32,7 @@
   </ul>
 
   <ul>
-    <h4>Отзывы:</h4>
+    <h4>отзывы</h4>
     {{ range .Data.Pages.ByPublishDate.Reverse }}
       <div class="posts">
         {{ if and (in .Params.categories "reviews") }}
@@ -47,9 +47,8 @@
     {{ end }}
   </ul>
 
-
   <ul>
-    <h4>Остальное:</h4>
+    <h4>остальное</h4>
     {{ range .Data.Pages.ByPublishDate.Reverse }}
       <div class="posts">
         {{ if and (in .Params.categories "other") }}
