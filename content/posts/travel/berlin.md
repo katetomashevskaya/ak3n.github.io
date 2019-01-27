@@ -1,6 +1,6 @@
 ---
 title: "Берлин"
-date: 2019-01-25
+date: 2019-01-27
 draft: false
 categories: travel
 ---
