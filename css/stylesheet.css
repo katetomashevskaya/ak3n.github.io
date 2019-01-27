@@ -41,9 +41,12 @@ a {
     width: 65%;
 }
 
+.blog-post img.full {
+    width: 100%;
+}
+
 .blog-post img, iframe {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-

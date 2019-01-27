@@ -6,10 +6,20 @@
     <description>Recent content in Posts on ak3n.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://ak3n.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Берлин</title>
+      <link>http://ak3n.com/posts/travel/berlin/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://ak3n.com/posts/travel/berlin/</guid>
+      <description>Идея посетить Берлин возникла давно. Мне нравится немецкий (27 уровень в dualingo (!)). Я пробовал проходить интервью в SAP и Zalando. Наслышан про активную жизнь в tech сцене Берлина, а это сразу видно по meetup.com. Мне нравится кое-что из техно. Осенью туда переехал Вастрик, которого не получилось поймать летом в Москве. По совокупности факторов стало ясно, что если и ехать куда-то в Европу, то в Берлин.
+Так как это была моя первая поездка заграницу, то я решил описать все максимально детально.</description>
+    </item>
     
     <item>
       <title>Новые центры власти и старые технологии несвободы</title>
