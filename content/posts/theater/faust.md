@@ -2,7 +2,7 @@
 title: "Фауст"
 date: 2018-12-06
 draft: false
-categories: reviews
+categories: reviews, theater
 ---
 
 <img src="/images/reviews/faust.jpg"/>

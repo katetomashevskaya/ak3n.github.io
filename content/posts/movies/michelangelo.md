@@ -2,7 +2,7 @@
 title: "Michelangelo – Love and Death"
 date: 2018-12-08
 draft: false
-categories: reviews
+categories: movies
 ---
 
 <img src="/images/reviews/michelangelo.jpg"/>

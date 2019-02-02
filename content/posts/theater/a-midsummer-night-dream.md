@@ -2,7 +2,7 @@
 title: "Сон в летнюю ночь"
 date: 2018-12-20
 draft: false
-categories: reviews
+categories: reviews, theater
 ---
 
 <img src="/images/reviews/a-midsummer-night-dream.jpg"/>

@@ -2,7 +2,7 @@
 title: "They Live"
 date: 2018-12-09
 draft: false
-categories: reviews
+categories: movies
 ---
 
 <img src="/images/reviews/they-live-facebook.jpg"/>

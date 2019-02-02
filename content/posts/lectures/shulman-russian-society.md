@@ -2,7 +2,7 @@
 title: "Про российское общество"
 date: 2019-01-09
 draft: false
-categories: reviews
+categories: lectures
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n6CzcgqOSi4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

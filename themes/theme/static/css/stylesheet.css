@@ -17,6 +17,14 @@ a {
     text-decoration: none;
 }
 
+#dashboard ul {
+  list-style-type: none;
+}
+
+ul li h4 {
+  margin-bottom: 0.5em;
+}
+
 .post a:hover {
     text-decoration: underline;
 }
