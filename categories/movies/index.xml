@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on ak3n.com</title>
+    <link>http://ak3n.com/categories/movies/</link>
+    <description>Recent content in Movies on ak3n.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ak3n.com/categories/movies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>They Live</title>
+      <link>http://ak3n.com/posts/movies/they-live/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ak3n.com/posts/movies/they-live/</guid>
+      <description>Так вышло, что последний раз я смотрел художественное кино около трех недель назад. Постоянное желание смотреть фильмы и сериалы куда-то совсем улетучилось. Но пройти мимо фильма &amp;ldquo;They Live&amp;rdquo; Джона Карпентера не получилось. Фильм однозначно культовый — классика жанра B-movie. Почти все видели кадры с очками и биллбордами.
+А мимо я не смог пройти потому что один чувак в твиттере постоянно постит мемы про фейсбук, который, как в очередной раз выяснилось, опять предоставляет доступ к данным пользователей.</description>
+    </item>
+    
+    <item>
+      <title>Michelangelo – Love and Death</title>
+      <link>http://ak3n.com/posts/movies/michelangelo/</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ak3n.com/posts/movies/michelangelo/</guid>
+      <description>Сегодняшний обзор посвящен документальному фильму &amp;ldquo;Michelangelo – Love and Death&amp;rdquo;. Начну с небольшой предыстории почему вообще пошел на него в кино.
+Недавно я заинтересовался Эпохой Возрождения, начав читать &amp;ldquo;Eros and Magic in the Renaissance&amp;rdquo;. Книжку пришлось вернуть в очередь — оказалась сложной. Требует античного бэкграунда, хоть какое-то знание про Ренессанс и много незнакомых слов. И когда увидел что будет документалка про одну из самых ярких личностей того времени решил обязательно сходить.</description>
+    </item>
+    
+  </channel>
+</rss>

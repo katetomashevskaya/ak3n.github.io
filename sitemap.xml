@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ak3n.com/posts/books/45-tatoo-of-personality/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ak3n.com/posts/travel/berlin/</loc>
     <lastmod>2019-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ak3n.com/posts/reviews/davidov-new-centers-of-authorities/</loc>
+    <loc>http://ak3n.com/posts/lectures/davidov-new-centers-of-authorities/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ak3n.com/posts/reviews/shulman-russian-society/</loc>
+    <loc>http://ak3n.com/posts/lectures/shulman-russian-society/</loc>
     <lastmod>2019-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ak3n.com/posts/reviews/nationalism/</loc>
+    <loc>http://ak3n.com/posts/books/nationalism/</loc>
     <lastmod>2019-01-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,37 +43,56 @@
   </url>
   
   <url>
-    <loc>http://ak3n.com/posts/reviews/a-midsummer-night-dream/</loc>
+    <loc>http://ak3n.com/posts/theater/a-midsummer-night-dream/</loc>
     <lastmod>2018-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ak3n.com/posts/reviews/the-madness-of-george-iii/</loc>
+    <loc>http://ak3n.com/posts/theater/the-madness-of-george-iii/</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ak3n.com/posts/reviews/they-live/</loc>
+    <loc>http://ak3n.com/posts/movies/they-live/</loc>
     <lastmod>2018-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ak3n.com/posts/reviews/michelangelo/</loc>
+    <loc>http://ak3n.com/posts/movies/michelangelo/</loc>
     <lastmod>2018-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ak3n.com/posts/reviews/faust/</loc>
+    <loc>http://ak3n.com/posts/theater/faust/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://ak3n.com/posts/reviews/neurotic-personality/</loc>
+    <loc>http://ak3n.com/posts/books/neurotic-personality/</loc>
     <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://ak3n.com/categories/books/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ak3n.com/categories/</loc>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/categories/lectures/</loc>
+    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ak3n.com/categories/movies/</loc>
+    <lastmod>2018-12-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,13 +104,13 @@
   
   <url>
     <loc>http://ak3n.com/posts/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ak3n.com/categories/reviews/</loc>
-    <lastmod>2019-01-23T00:00:00+00:00</lastmod>
+    <loc>http://ak3n.com/categories/reviews-theater/</loc>
+    <lastmod>2018-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -103,7 +127,7 @@
   
   <url>
     <loc>http://ak3n.com/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
